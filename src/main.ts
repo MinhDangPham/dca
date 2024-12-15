@@ -79,3 +79,5 @@ console.log(q)
 
 let r: boolean = !n
 console.log(r)
+
+console.log(aaNegative + aZero + aa + ad + ai + aj + ak + am + an + text + text1 + text2)
